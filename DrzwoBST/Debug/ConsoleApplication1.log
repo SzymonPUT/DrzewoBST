@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c:\users\szymon\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(91): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\Szymon\Documents\Visual Studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
